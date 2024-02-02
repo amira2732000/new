@@ -1,0 +1,115 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+   
+    background-image: url(https://artisanhd.com/wp-content/uploads/2019/01/design-your-own-house-ocean-view-inspiration-artisanhd.jpg);
+    
+    background-size: cover;
+    
+    } 
+
+
+    header {
+        background-color:transparent;
+        color: #fff;
+        display: flex;
+        justify-content: space-around;
+        height: 70px;
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+      }
+      .ami {margin-top: 30px;
+        margin-left: 60px;
+        font-size: 45px;
+    display: inline-block;
+    list-style: none;
+    width: 120px;}
+
+      nav{
+    height: 100vh;
+    display: flex;
+    justify-content: space-around;
+        
+        
+        width: 45%;
+        padding: 70px 0;
+        margin: auto;
+        margin-right: 50px;
+        margin-top: -20px;
+        
+    
+    }
+    nav a{
+        text-decoration: none;
+        font-size: 25px;
+        font-family: sans-serif;
+        color: #fff;
+        
+        
+    }
+    u{
+        color: #009688;
+        size: 2px;
+    }
+
+
+     
+  
+.content{
+    width: 100%;
+    
+    position: absolute;
+    top: 49%;
+    transform: translate(-50%);
+    text-align: center;
+    color: #fff;
+    margin-left: 1019px;
+}
+h1{
+    font-size: 80px;
+    margin-top: -25px;
+}
+.content p{
+    margin: 20px auto;
+font-weight: 150;
+line-height: 15px;
+font-size: 20px;
+margin-left: 30px;
+margin-top: -25px;
+    
+}
+   button{
+    width: 200px;
+    padding: 15px 0;
+    text-align: center;
+margin: 20px 10px;
+border-radius: 25px;
+font-size: 13px;
+border: 3px solid #009688;
+background: transparent;
+color: #fff;
+
+   }
+  
+   .marwa{
+    background-color: #009688;
+   }
+   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
